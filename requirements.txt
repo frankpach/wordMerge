@@ -1,12 +1,5 @@
-# Function dependencies, for example:
-# package>=version
-
-pandas~=1.3.3
-numpy~=1.21.2
-mysql-connector-python~=8.0.26
-sshtunnel~=0.4.0
+pandas==1.5.0
+numpy==1.23.3
 docx2pdf~=0.1.7
 docx-mailmerge~=0.5.0
-python-decouple~=3.6
-html2text~=2020.1.16
 PySimpleGUI~=4.60

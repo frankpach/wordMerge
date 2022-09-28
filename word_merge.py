@@ -4,7 +4,6 @@ from os import path
 from os import walk
 import pandas as pd
 import numpy as np
-from docx2pdf import convert
 from mailmerge import MailMerge
 
 

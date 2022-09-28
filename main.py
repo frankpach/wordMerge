@@ -6,7 +6,7 @@ from docx2pdf import convert
 import pandas as pd
 import numpy as np
 from mailmerge import MailMerge
-import PySimpleGUI as sg  # Part 1 - The import
+import PySimpleGUI as sg
 
 
 def get_theme():
